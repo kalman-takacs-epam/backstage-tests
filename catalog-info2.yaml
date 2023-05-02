@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
-kind: component
+kind: Component
 metadata:
   name: almafa
   description: The place to be, for great artists asdasd asd as dasd asd asfsdfagfdgfdg sdf gdsfg dfsh fdhdfshg fsd hsdfh dfsh dfs 
   tags:
     - java
 spec:
-  type: component
-  lifecycle: production
+  type: service
+  lifecycle: experimental
   owner: user:default/guest
