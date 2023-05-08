@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: korte-asd-asd-asd-asd-asd-asdasd
+  description: The place to be, for great artists asdasd asd as dasd asd asfsdfagfdgfdg sdf gdsfg dfsh fdhdfshg fsd hsdfh dfsh dfs 
+  tags:
+    - java
+    - javascript
+    - htmlasdsadasdasdasdasdasdasdsad
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:default/guest
