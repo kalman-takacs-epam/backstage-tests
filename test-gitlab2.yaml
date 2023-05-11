@@ -6,7 +6,7 @@ metadata:
   labels:
     example.com/custom: custom_label_value
   annotations:
-         gitlab.com/project-id: "13606"
+         gitlab.com/project-id: '13606'
   tags:
     - gitlab
   links:
