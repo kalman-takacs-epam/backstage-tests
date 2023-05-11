@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 'gitlab-test'
+    annotations:
+    'gitlab.com/project-id': '168033'
+spec:
+  type: service
+  lifecycle: experimental
+  owner: 'user:default/guest'
